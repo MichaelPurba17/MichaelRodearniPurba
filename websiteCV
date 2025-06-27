@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Michael Rodearni Purba - CV</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Michael R. Purba</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+          <li class="nav-item"><a class="nav-link" href="#hobbies">Hobbies</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Banner -->
+  <header class="bg-primary text-white text-center py-5">
+    <div class="container">
+        <img src="c:\Users\MICHAEL RODEARNI .P\Pictures\fotoCV_MichaelRodearniPurba.jpg" alt="Michael Rodearni Purba" class="img-fluid rounded-circle mb-3" width="200">
+      <h1>Michael Rodearni Purba</h1>
+      <p class="lead">Computer Science Student at Budi Luhur University</p>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about" class="py-5">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Hello! I am Michael Rodearni Purba, currently pursuing a bachelor's degree in Computer Science at Budi Luhur University. I am passionate about technology, creative design, and teamwork. I am currently in my 6th semester at BudiLuhur University.</p>
+    </div>
+  </section>
+
+  <!-- Education Section -->
+  <section id="education" class="py-5 bg-light">
+    <div class="container">
+      <h2>Education</h2>
+      <ul>
+        <li><strong>2022 - 2026:</strong> Budi Luhur University – Information Technology</li>
+        <li><strong>2019 - 2022:</strong> SMA Yadika 3 Senior High School</li>
+        <li><strong>2016 - 2019:</strong> SMP Negeri 24 Tangerang Junior High School</li>
+        <li><strong>2010 - 2016:</strong> SD Bina Insani Tangerang </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Hobbies Section -->
+  <section id="hobbies" class="py-5">
+    <div class="container">
+      <h2>Hobbies</h2>
+      <ul>
+        <li>Playing video games</li>
+        <li>Watching movies</li>
+        <li>Playing futsal</li>
+        <li>Playing badminton</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Lenguanges Section -->
+  <section id="skills" class="py-5 bg-light">
+    <div class="container">
+      <h2>Skills</h2>
+      <div class="mb-3">
+        <label>HTML</label>
+        <div class="progress">
+          <div class="progress-bar bg-success" style="width: 90%;">90%</div>
+        </div>
+      </div>
+      <div class="mb-3">
+        <label>CSS</label>
+        <div class="progress">
+          <div class="progress-bar bg-info" style="width: 85%;">85%</div>
+        </div>
+      </div>
+      <div class="mb-3">
+        <label>JavaScript</label>
+        <div class="progress">
+          <div class="progress-bar bg-warning" style="width: 75%;">75%</div>
+        </div>
+      </div>
+      <div class="mb-3">
+        <label>PHP</label>
+        <div class="progress">
+          <div class="progress-bar bg-primary" style="width: 70%;">70%</div>
+        </div>
+      </div>
+      <div class="mb-3">
+        <label>Python</label>
+        <div class="progress">
+          <div class="progress-bar bg-danger" style="width: 80%;">80%</div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Contact Section -->
+  <section id="contact" class="py-5 bg-light">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Address: Cipondoh,Tangerang</p>
+      <p>Email: michaelpurba777@gmail.com</p>
+      <p>Phone: +62 83803273955</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-3">
+    <div class="container">
+      <small>&copy; 2025 Michael Rodearni Purba</small>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
